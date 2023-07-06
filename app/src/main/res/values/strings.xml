@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">IP Geolocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="city" translatable="false">Town</string>
+    <string name="region">Area</string>
+    <string name="country" translatable="false">Country</string>
+    <string name="show_map">Show the Map</string>
+    <string name="ip_address" translatable="false">Ip Address</string>
+    <string name="find" translatable="false">Search</string>
+    <string name="loginpref" translatable="false">loginPref</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="wrong_password">wrong password</string>
+    <string name="user_not_found">user not found</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">LOGIN</string>
+</resources>
